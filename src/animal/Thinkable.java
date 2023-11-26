@@ -1,8 +1,8 @@
 package animal;
 
-public interface Thinkable {
+interface Thinkable {
     
-    //think という名前のpublicな抽象メソッド
-    public void think() ;
+    //public抽象メソッド定義
+    public void think();
 
 }
